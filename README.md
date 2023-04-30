@@ -10,11 +10,11 @@
 Para la entrega del reporte del uso de las herramientas Monkey Cypress y Rippuppet, los invito a navegar a la wiki de nuestro proyecto:
 
 URL: https://github.com/kevin96uniandes/pruebas_automatizadas_equipo24/wiki
-![image](https://user-images.githubusercontent.com/123959005/235309358-4fdc2588-8faf-45ea-ab80-9cca0b1aaf22.png)
+![image](https://user-images.githubusercontent.com/123959005/235336057-3773f2ee-75ce-4cec-aab0-bd683ae5d60a.png)
 
 En la sección derecha de la wiki podras encontrar las paginas correspondientes al reporte seccionado por herramienta usada, te invitamos a que revises cada una
 
-![image](https://user-images.githubusercontent.com/123959005/235309493-ea4bffb1-f5e3-4c01-a08f-d26ceb343ab9.png)
+![image](https://user-images.githubusercontent.com/123959005/235336073-b8e1f340-de37-4afd-925a-1e9a0cf4ebb2.png)
 
 
 
