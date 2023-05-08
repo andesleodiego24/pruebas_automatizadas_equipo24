@@ -19,6 +19,3 @@ En la sección derecha de la wiki podras encontrar las paginas correspondientes 
 
 
 
-
-
-
